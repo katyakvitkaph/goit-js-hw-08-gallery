@@ -25,6 +25,8 @@ html {
     list-style: none;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 30px;
+    width: 1200px;
   }
   
   .gallery__item {
